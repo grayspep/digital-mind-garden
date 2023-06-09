@@ -1,22 +1,24 @@
-# Nextra Docs Template 
+# Dijital Zihin Bahçem
+Burası aktif olarak ilgilendiğim konular hakkında bir depo misali Vercel,Nextra aracılığıyla oluşturduğum  zihin bahçemdir.
+Hepiniz Hoş Geldiniz...
 
-This is a template for creating documentation with [Nextra](https://nextra.site).
+# Linkler
+[Twitter](https://twitter.com/grayspep) Ulaşmak isterseniz DM'den yazabilirsiniz.
 
-[**Live Demo →**](https://nextra-docs-template.vercel.app)
+ Zihin Bahçem Domain alana kadar buradan devam [LIVE DEMO](https://my-mind-garden.vercel.app/)
+
+[Bento.me] Genel Linkler (https://bento.me/grayspep)
+
+Bu, dokümantasyon oluşturmak için bir şablondur. [Nextra](https://nextra.site).
+
 
 [![](.github/screenshot.png)](https://nextra-docs-template.vercel.app)
 
-## Quick Start
+## Başlarken
 
-Click the button to clone this repository and deploy it on Vercel:
+Bu depoyu klonlamak ve Vercel'de dağıtmak için düğmeye tıklayın:
 
 [![](https://vercel.com/button)](https://vercel.com/new/clone?s=https%3A%2F%2Fgithub.com%2Fshuding%2Fnextra-docs-template&showOptionalTeamCreation=false)
-
-## Local Development
-
-First, run `pnpm i` to install the dependencies.
-
-Then, run `pnpm dev` to start the development server and visit localhost:3000.
 
 ## License
 
